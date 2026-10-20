@@ -82,7 +82,7 @@ O pedido completo é grande. Tentei separar o que prova o conceito do que pode e
 - **Entra:** tudo o que mostra que a linha de produção funciona com qualidade, que a biblioteca atende várias empresas e que o custo está sob controle.
 - **Fica para depois:** o que aumenta o valor, mas depende de o básico já estar rodando (vídeo, personalização por empresa, trilhas, recomendação).
 
-Com isso o MVP cabe em seis semanas, com três entregas em que o cliente vê algo funcionando e pode ajustar o rumo cedo.
+Com isso o MVP cabe em 30 dias, com duas entregas de 15 dias em que o cliente vê algo funcionando e pode ajustar o rumo cedo.
 
 ## O que ainda pode mudar
 

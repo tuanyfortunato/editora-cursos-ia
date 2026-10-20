@@ -43,7 +43,7 @@ Lista do que preciso confirmar antes de fechar escopo, prazo e valor. Os primeir
 ## Projeto
 
 - Quem é o responsável do lado de vocês e com que frequência conseguimos conversar?
-- O orçamento cabe nas três entregas propostas ou preferem começar só pelo diagnóstico?
+- O orçamento cabe nas duas entregas propostas ou preferem começar só pelo diagnóstico?
 - Depois do MVP, vão querer suporte e evolução contínuos?
 
 ## Premissas que estou assumindo
