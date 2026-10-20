@@ -11,3 +11,4 @@ Aqui ficam as notas de como eu pensei a solução e o que ainda precisa ser conv
 7. [Custos](07-custos.md)
 8. [Plano de entrega](08-plano-de-entrega.md)
 9. [Pontos para alinhar com o cliente](09-pontos-a-levantar.md)
+10. [Como pensei a solução](10-como-pensei-a-solucao.md)
