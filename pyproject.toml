@@ -1,0 +1,16 @@
+[project]
+name = "editora-cursos-ia"
+version = "0.1.0"
+description = "Editora inteligente de microcursos para o varejo, com agentes de IA sobre o Amazon Bedrock"
+requires-python = ">=3.11"
+dependencies = [
+    "boto3>=1.35",
+    "pydantic>=2.7",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
